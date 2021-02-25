@@ -1,1 +1,1 @@
-"# aks-terraform-hashiform-webinar" 
+# aks-terraform-hashiform-webinar
